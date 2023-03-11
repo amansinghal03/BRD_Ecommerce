@@ -65,7 +65,7 @@ Pygments==2.14.0
 pyHanko==0.17.0
 pyhanko-certvalidator==0.20.1
 pyhcl==0.4.4
-PyJWT>=1.5.2,<2.0.0
+PyJWT>=1.5.2,<2.0.0,>=2
 pypdf==3.4.1
 pypng==0.20220715.0
 python-bidi==0.4.2
